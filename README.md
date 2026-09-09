@@ -1,1 +1,1 @@
-# linux-for-ginkgo
+# Linux for GINKGO
